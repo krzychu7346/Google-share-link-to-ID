@@ -1,0 +1,49 @@
+body {
+    background-color: #c1c432;
+    font-weight: 900;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+textarea {
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+input {
+    padding: 20px;
+    border-radius: 5px;
+    font-weight: 900;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center
+}
+
+
+.id {
+    width: 10%;
+}
+
+td {
+    padding: 15px;
+    border: 1px solid red;
+    width: 100%;
+
+
+}
+
+
+
+img {
+    width: 100px;
+    height: 100px;
+
+}
